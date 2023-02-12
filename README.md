@@ -19,4 +19,4 @@
 
 ### Screenshot:
 
-![Visualize](https://github.com/37rohan/Dynamic_Student_Enrollment_Form/)
+![Visualize](https://github.com/37rohan/Dynamic_Student_Enrollment_Form/blob/master/1.jpg)
